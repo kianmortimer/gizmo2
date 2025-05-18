@@ -1,2 +1,0 @@
-env:
-    TOKEN_DISCORD: ${{ secrets.TOKEN_DISCORD }}
